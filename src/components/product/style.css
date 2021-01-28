@@ -1,0 +1,25 @@
+
+.product
+{
+  height: calc(100vh - 200px);
+  padding: 5rem 2rem;
+  position: relative;
+}
+
+.product img{
+  float: left;
+  width: 300px;
+  margin-right: 1rem;
+  transition: all 0.5s;
+}
+
+.product ul{
+  list-style-type: none;
+}
+
+.productDescription
+{
+  width: 100%;
+}
+
+ 
